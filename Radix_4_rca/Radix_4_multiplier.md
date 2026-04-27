@@ -24,7 +24,11 @@ The encoder checks three bits at a time: `{Y[i+1], Y[i], Y[i-1]}`.
 > **Note:** $M$ = Multiplicand. Generated partial products are shifted according to their group position.
 
 ---
+<p align="center">
+  <img src="/Radix_4_rca/Radix4_rca_block.png" width="600"/>
+</p>
 
+<p align="center"><b>Figure: Radix-4 Booth Multiplier Block Diagram</b></p>
 *Figure: Radix-4 Booth Multiplier Architecture*
 
 ---
