@@ -1,1 +1,1 @@
-# Radix-8-multiplier
+# Radix-4-multiplier
