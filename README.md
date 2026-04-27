@@ -85,18 +85,18 @@ Radix_4_rca/
 
 The future implementation will focus on comparing different multiplier architectures and final adder choices.
 
-Planned extensions include:
-- Comparison of Radix-4 Booth Multiplier using RCA and CLA
-- Analysis of which final adder is better for Booth multiplier implementation
-Comparison based on:
-- Area
-- Power
-- Timing
-- Critical path delay
-- Routing complexity
-- 
-Implementation of a Radix-8 Booth Multiplier
-Testing Radix-8 with either RCA or CLA based on the best result obtained from the Radix-4 comparison
+- Planned extensions include:
+   - Comparison of Radix-4 Booth Multiplier using RCA and CLA
+   - Analysis of which final adder is better for Booth multiplier implementation
+- Comparison based on:
+  - Area
+  - Power
+  - Timing
+  - Critical path delay
+  - Routing complexity
+  
+- Implementation of a Radix-8 Booth Multiplier
+- Testing Radix-8 with either RCA or CLA based on the best result obtained from the Radix-4 comparison
 
 The goal is to identify the most efficient architecture for Booth multiplier implementation in terms of speed, area, and physical design quality.
 
