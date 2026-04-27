@@ -7,6 +7,12 @@ This project implements a **Radix-4 Booth Multiplier using RCA** designed in Ver
 
 ## Functional Simulation Results
 
+<p align="center">
+  <img src="sim and gds/radix4rca_waveform.png" width="900"/>
+</p>
+
+<p align="center"><b>Figure: Vivado simulation result</b></p>
+
 ### Testbench Observation
 The waveform verifies correct operation of signed multiplication across multiple test cases.
 
@@ -41,7 +47,7 @@ The design was taken through a complete ASIC implementation flow using OpenLane:
 ## KLayout GDS View and Analysis
 
 <p align="center">
-  <img src="Radix_4_rca/sim and gds/Radix_4_rca_klayout.png" width="500"/>
+  <img src="sim and gds/Radix_4_rca_klayout.png" width="500"/>
 </p>
 
 <p align="center"><b>Figure: Final GDS Layout (KLayout View)</b></p>
