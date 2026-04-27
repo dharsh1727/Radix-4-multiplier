@@ -34,6 +34,11 @@ The design uses:
 The final design was simulated and physically implemented using the SkyWater 130 nm standard cell library.
 
 ---
+## Tools Used
+
+- **Vivado** – Functional simulation and verification  
+- **OpenLane (Sky130 PDK)** – RTL-to-GDSII ASIC flow  
+---
 
 ## What is a Multiplier?
 
