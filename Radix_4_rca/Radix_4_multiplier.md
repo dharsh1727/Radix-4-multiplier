@@ -55,7 +55,7 @@ Each partial product is sign-extended and shifted according to its Booth group p
 
 ---
 
-### csa.v
+### `csa.v`
 
 This module implements the Carry Save Adder. The CSA is used to reduce multiple partial products without immediately propagating the carry.
 Instead of producing one final sum directly, the CSA produces:
@@ -67,7 +67,7 @@ This improves speed because carry propagation is delayed until the final additio
 
 ---
 
-### rca.v
+### `rca.v`
 
 This module implements the Ripple Carry Adder. It performs the final addition of the sum and carry outputs from the CSA stage.
 
@@ -75,7 +75,7 @@ The RCA generates the final 16-bit product output.
 
 ---
 
-### multiplier_top.v
+### `multiplier_top.v`
 
 This is the top-level module of the design. It connects all the internal blocks together.
 
