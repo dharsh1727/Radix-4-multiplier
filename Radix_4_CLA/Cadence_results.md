@@ -10,7 +10,7 @@
   <img src="sim and gds/Timing_report.png" width="700"/>
 </p>
 
-<p align="center"><b>Fig.4 Timing Report</b></p>
+<p align="center"><b> Timing Report</b></p>
 
 The timing analysis of the synthesized design (Booth_CLA_Top) was performed after implementation. The report shows successful timing closure with no violations.
 
@@ -53,7 +53,7 @@ The timing analysis of the synthesized design (Booth_CLA_Top) was performed afte
   <img src="sim and gds/DRC.png" width="700"/>
 </p>
 
-<p align="center"><b>Fig.5 Connectivity Verification and DRC</b></p>
+<p align="center"><b>Connectivity Verification and DRC</b></p>
 
 The connectivity verification process was performed using the Innovus verification engine to ensure proper net connections.
 
@@ -82,7 +82,7 @@ This indicates that the layout adheres to all fabrication rules and is safe for 
   <img src="sim and gds/area_innovus.png" width="500"/>
 </p>
 
-<p align="center"><b>Fig.6 Area Report from Genus and Innovus</b></p>
+<p align="center"><b> Area Report from Genus and Innovus</b></p>
 
 The area of the Booth_CLA_Top design was analyzed at synthesis and physical design stages.
 
@@ -108,7 +108,7 @@ The reduction in area from synthesis to physical design is due to placement and 
   <img src="sim and gds/Floorplanning.png" width="600"/>
 </p>
 
-<p align="center"><b>Fig.7 Floorplanning</b></p>
+<p align="center"><b> Floorplanning</b></p>
 
 The floorplan shows the core region placed within the chip boundary with minimal routing, representing the initial stage of physical design.
 
@@ -120,7 +120,7 @@ The floorplan shows the core region placed within the chip boundary with minimal
   <img src="sim and gds/Placement.png" width="600"/>
 </p>
 
-<p align="center"><b>Fig.8 Placement (Pre-routing)</b></p>
+<p align="center"><b> Placement (Pre-routing)</b></p>
 
 During placement, standard cells are positioned within the core area.
 
@@ -136,7 +136,7 @@ During placement, standard cells are positioned within the core area.
   <img src="sim and gds/Routing.jpg" width="600"/>
 </p>
 
-<p align="center"><b>Fig.9 Routing</b></p>
+<p align="center"><b> Routing</b></p>
 
 Routing completes all physical interconnections.
 
