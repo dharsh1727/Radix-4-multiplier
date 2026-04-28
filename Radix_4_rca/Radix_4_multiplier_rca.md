@@ -1,4 +1,4 @@
-## Radix-4 Booth Multiplier Logic
+## Radix-4 Booth Multiplier_rca Logic
 
 A Radix-4 Booth Multiplier processes multiplier bits in **groups of three**, with one overlapping bit from the previous group. This generates one partial product for every two bits of the multiplier.
 
