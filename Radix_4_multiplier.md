@@ -28,8 +28,8 @@ The encoder checks three bits at a time: `{Y[i+1], Y[i], Y[i-1]}`.
 ## Block Diagram:
 
 <p align="center">
-  <img src="/Radix_4_rca/Radix4_rca_block.png" width="600"/>
-  <img src="/Radix_4_CLA/Radix4_cla_block.png" width="600"/>
+  <img src="/Radix_4_rca/Radix4_rca_block.png" width="400"/>
+  <img src="/Radix_4_CLA/Radix4_cla_block.png" height="605" width="400"/>
 </p>
 
 <p align="center"><b>Figure: Radix-4 Booth Multiplier Block Diagram having RCA and CLA as final adders</b></p>
